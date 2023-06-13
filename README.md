@@ -5,13 +5,13 @@ Welcome to the CSC600 Final Project repository! This project is a collaborative 
 
 ## Features
 
-    Instrument Creation: Each group member has created a unique instrument for the app. Instruments include various musical instruments, synthesizers, or experimental sound generators.
+Instrument Creation: Each group member has created a unique instrument for the app. Instruments include various musical instruments, synthesizers, or experimental sound generators.
 
-    Visualizer: The app features a visualizer component that responds to the sounds produced by the instruments. The visualizer enhances the user experience and provides a visually captivating element to the app.
+Visualizer: The app features a visualizer component that responds to the sounds produced by the instruments. The visualizer enhances the user experience and provides a visually captivating element to the app.
 
-    Frontend Technologies: The frontend of the application is developed using Typescript, a statically-typed superset of JavaScript, and Tailwind CSS, a utility-first CSS framework that allows for rapid UI development.
+Frontend Technologies: The frontend of the application is developed using Typescript, a statically-typed superset of JavaScript, and Tailwind CSS, a utility-first CSS framework that allows for rapid UI development.
 
-    Backend Technology: The app utilizes SQL as the database management system to store notes, sounds, and songs associated with the instruments.
+Backend Technology: The app utilizes SQL as the database management system to store notes, sounds, and songs associated with the instruments.
 
 ## Importance of the Project
 
